@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AhlamAlobeidani
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m software engineering
